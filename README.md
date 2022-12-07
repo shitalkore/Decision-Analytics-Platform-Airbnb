@@ -1,4 +1,8 @@
 # Installation
+### Demo 
+[streamlit-streamlit_app-2022-12-07-21-12-27.webm](https://user-images.githubusercontent.com/101204171/206233456-49c86b3e-62a8-4cfa-9496-409603191465.webm)
+
+   
 ### Pre-deployed
    [Streamlit Cloud](https://shitalkore-deploy-airbnb-streamlit-app-e3g0dk.streamlitapp.com/)
 ### Portable
